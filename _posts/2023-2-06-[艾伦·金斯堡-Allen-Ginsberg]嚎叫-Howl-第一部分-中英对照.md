@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[艾伦金斯堡-Allen-Ginsberg]嚎叫-Howl-第一部分-中英对照"
+title: "[艾伦·金斯堡-Allen-Ginsberg]嚎叫-Howl-第一部分-中英对照"
 date: 2023-2-06 18:00:00 +0800
 category: posts poet 3
 ---
