@@ -10,5 +10,5 @@ permalink: /download/
 
 **作者: 马克·费舍尔 Mark Fischer**
 
-[点我下载](https://lpgrassland.github.io/ebooks/Capitalist Realism_Is There no Alternative__Mark Fisher.pdf)
+[点我下载](https://lpgrassland.github.io/ebooks/Capitalist_Realism_Is_There_no_Alternative__Mark_Fisher.pdf)
 
