@@ -17,3 +17,7 @@ permalink: /download/
 **大逆转——中国的私有化 作者：威廉·韩丁 William Hinton**
 
 [点我下载](https://lpgrassland.github.io/download/dnz.pdf)
+
+**毛泽东的中国及其后：中华人民共和国史 作者：莫里斯·迈斯纳 Maurice Meisner**
+
+[点我下载](https://lpgrassland.github.io/download/mao_china_and_after.chm)
