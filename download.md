@@ -21,3 +21,8 @@ permalink: /download/
 **毛泽东的中国及其后：中华人民共和国史 作者：莫里斯·迈斯纳 Maurice Meisner**
 
 [点我下载](https://lpgrassland.github.io/download/mao_china_and_after.chm)
+
+**历史与阶级意识（Geschichte und Klassenbewusstsein） 作者：乔治·卢卡奇 Georg Lukács**
+
+[点我下载](https://lpgrassland.github.io/download/geschichte.chm)
+
